@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\bin\Debug\netcoreapp3.1\PatronBuilder.exe
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\bin\Debug\netcoreapp3.1\PatronBuilder.deps.json
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\bin\Debug\netcoreapp3.1\PatronBuilder.runtimeconfig.json
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\bin\Debug\netcoreapp3.1\PatronBuilder.runtimeconfig.dev.json
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\bin\Debug\netcoreapp3.1\PatronBuilder.dll
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\bin\Debug\netcoreapp3.1\PatronBuilder.pdb
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\obj\Debug\netcoreapp3.1\PatronBuilder.csprojAssemblyReference.cache
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\obj\Debug\netcoreapp3.1\PatronBuilder.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\obj\Debug\netcoreapp3.1\PatronBuilder.AssemblyInfo.cs
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\obj\Debug\netcoreapp3.1\PatronBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\obj\Debug\netcoreapp3.1\PatronBuilder.dll
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\obj\Debug\netcoreapp3.1\PatronBuilder.pdb
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\PatronBuilder\obj\Debug\netcoreapp3.1\PatronBuilder.genruntimeconfig.cache

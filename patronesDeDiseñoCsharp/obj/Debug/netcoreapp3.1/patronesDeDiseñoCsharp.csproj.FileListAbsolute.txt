@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\bin\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.exe
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\bin\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.deps.json
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\bin\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.runtimeconfig.json
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\bin\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.runtimeconfig.dev.json
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\bin\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.dll
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\bin\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.pdb
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\obj\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\obj\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\obj\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.AssemblyInfo.cs
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\obj\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\obj\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.dll
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\obj\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.pdb
+C:\Users\User\source\repos\patronesDeDiseñoCsharp\patronesDeDiseñoCsharp\obj\Debug\netcoreapp3.1\patronesDeDiseñoCsharp.genruntimeconfig.cache
