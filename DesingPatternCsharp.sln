@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronBuilder", "PatronBuil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronMetodoFabrica", "PatronMetodoFabrica\PatronMetodoFabrica.csproj", "{C4BED1BC-38C2-49AA-A9A5-A47B2297850A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronFabricaAbstracta", "PatronFabricaAbstracta\PatronFabricaAbstracta.csproj", "{ED5D5BD1-3C53-48FB-8934-3B729E921F4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C4BED1BC-38C2-49AA-A9A5-A47B2297850A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4BED1BC-38C2-49AA-A9A5-A47B2297850A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4BED1BC-38C2-49AA-A9A5-A47B2297850A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5D5BD1-3C53-48FB-8934-3B729E921F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5D5BD1-3C53-48FB-8934-3B729E921F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5D5BD1-3C53-48FB-8934-3B729E921F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5D5BD1-3C53-48FB-8934-3B729E921F4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
